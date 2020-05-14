@@ -1,4 +1,6 @@
 // nem tudok szamolni :(
+// ok, nvm
+
 
 const sum = (a, b) => {
   return a + b;
