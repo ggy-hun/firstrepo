@@ -1,3 +1,5 @@
+// nem tudok szamolni :(
+
 const sum = (a, b) => {
   return a + b;
 }
