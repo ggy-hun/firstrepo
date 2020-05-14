@@ -3,6 +3,9 @@
 // megegy pelda
 // ez konfliktolni fog
 
+// first commit on the dev branch
+
+
 const calculator = require('./calculator');
 
 console.log(calculator.sum(10, 12));
