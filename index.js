@@ -1,5 +1,6 @@
 // pelda komment sor
 // megegy pelda
+// ez konfliktolni fog
 const calculator = require('./calculator');
 
 console.log(calculator.sum(10, 12));
